@@ -6,15 +6,15 @@
 }
 
 @font-face{
-  font-family: ginora;
-  src : url(fonts/ginora.otf);
+  font-family: HelveticaNeueL;
+  src : url(fonts/HelveticaNeueLTProLt.otf);
 }
 
 body {
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  font-family: "ginora", sans-serif;
+  font-family: "HelveticaNeueL", sans-serif;
   color: #788487;
   position: relative;
 }
